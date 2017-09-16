@@ -4,7 +4,7 @@
 
     <groupId>uk.me.krupa.kruton</groupId>
     <artifactId>kruton-fact-service</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <parent>
         <groupId>uk.me.krupa.kruton</groupId>
