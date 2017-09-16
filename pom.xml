@@ -4,7 +4,7 @@
 
     <groupId>uk.me.krupa.kruton</groupId>
     <artifactId>kruton-fact-service</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
 
     <parent>
         <groupId>uk.me.krupa.kruton</groupId>
@@ -15,7 +15,7 @@
     <scm>
         <connection>scm:git:git://github.com/GJKrupa/kruton-fact-service.git</connection>
         <developerConnection>scm:git:git@github.com:GJKrupa/kruton-fact-service.git</developerConnection>
-        <tag>kruton-fact-service-1.0.3</tag>
+        <tag>${project.version}</tag>
     </scm>
 
     <properties>
