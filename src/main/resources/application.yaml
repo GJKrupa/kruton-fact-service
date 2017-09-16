@@ -4,6 +4,6 @@ server:
 spring:
   data:
     neo4j:
-      uri: neo4j://${DB_HOST}:${DB_PORT}
+      uri: bolt://${DB_HOST}:${DB_PORT}
       username: ${DB_USERNAME}
       password: ${DB_PASSWORD}
